@@ -7,4 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
+rightscale_marker
+
 log "hello World!! You should try chef with right scale!"
